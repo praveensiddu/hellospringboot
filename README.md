@@ -1,7 +1,5 @@
 # hellospringboot
-My first experiment with spring boot
-Objective
-A webapplication which uses 
+My first experiment with spring boot. My Objective is to build a webapplication which uses 
 * ldap authentication  
 * UI 
   * Built in angular or jquery
